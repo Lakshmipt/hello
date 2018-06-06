@@ -9,7 +9,7 @@
   <url>http://central.maven.org/maven2/</url>
   <dependencies>
     <dependency>
-      <groupId>jamon-runtime</groupId>
+      <groupId>org.jamon</groupId>
       <artifactId>jamon-runtime</artifactId>
       <version>2.3.1</version>
       <scope>test</scope>
